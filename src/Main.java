@@ -2,17 +2,17 @@ public class Main {
     public static void main(String[] args) {
 
 
-            org.example.entities.Produit lait=new org.example.entities.Produit();
+           Produit lait=new Produit();
             lait.setLibelle("Lait");
             lait.setId(1021);
             lait.setMarque("Delice");
 
-            org.example.entities.Produit Yaourt=new org.example.entities.Produit();
+            Produit Yaourt=new Produit();
             lait.setLibelle("Yaourt");
             lait.setId(2510);
             lait.setMarque("Vitalait");
 
-            org.example.entities.Produit Tomate=new org.example.entities.Produit();
+           Produit Tomate=new Produit();
             lait.setLibelle("Tomate");
             lait.setId(3250);
             lait.setMarque("Sicam ");
